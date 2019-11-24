@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eclesial", "Eclesial\Eclesial.csproj", "{5B7B5D60-4D23-4959-9FB2-6C8080FE4B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eclesial.Tests", "Eclesial.Tests\Eclesial.Tests.csproj", "{CFD1A721-8620-41EA-AD0A-1CC450C49CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7B5D60-4D23-4959-9FB2-6C8080FE4B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7B5D60-4D23-4959-9FB2-6C8080FE4B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7B5D60-4D23-4959-9FB2-6C8080FE4B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7B5D60-4D23-4959-9FB2-6C8080FE4B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD1A721-8620-41EA-AD0A-1CC450C49CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD1A721-8620-41EA-AD0A-1CC450C49CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD1A721-8620-41EA-AD0A-1CC450C49CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD1A721-8620-41EA-AD0A-1CC450C49CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270B60A9-CA82-4E5B-9421-EB94FEEF0CD6}
+	EndGlobalSection
+EndGlobal
